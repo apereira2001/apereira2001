@@ -1,9 +1,13 @@
 ###  Hi guy, I hope you are safe. 👋
 
-<div>
+<div class="container" style="display: flex;">
   <a href="https://github.com/apereira2001">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apereira2001&layout=compact&langs_count=7&theme=dracula" />
+  <div class="box1" style="height: 180em;">
+    <img src="https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  </div>
+  <div class="box2" style="height: 180em;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apereira2001&layout=compact&langs_count=7&theme=dracula" />
+  </div>
 </a></div>
 
 
