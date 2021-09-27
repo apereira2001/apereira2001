@@ -1,6 +1,6 @@
 #### Olá, espero que todos estejam bem. 👋
 #### Hey guys, I hope you're safe. 👋
-#### こんにちはみんなが安全であることを願っています。👋
+#### こんにちは、皆さんが元気であることを願っています。。👋
 
 
 <div>
