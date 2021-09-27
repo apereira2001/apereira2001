@@ -1,7 +1,12 @@
-###  Hi guy, I hope you are safe.
+###  Hi guy, I hope you are safe. 👋
+
+<div align="center">
+  <a href="https://github.com/apereira2001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apereira2001&layout=compact&langs_count=7&theme=dracula" />
+</a></div>
 
 <!--
-👋
 **apereira2001/apereira2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
@@ -15,6 +20,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<div align="center">
+  <a href="https://github.com/apereira2001">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" style="max-width: 100%;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apereira2001&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;" />
+</a></div>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=tokyonight)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
 
