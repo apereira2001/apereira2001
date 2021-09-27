@@ -1,13 +1,12 @@
-###  Hi guy, I hope you are safe. 👋
+#### Olá, espero que todos estejam bem. 👋
+#### Hi guys, I hope you are safe. 👋
+#### こんにちはみんな、私はあなたが安全であることを願っています。👋
 
-<div class="container" style="display: flex;">
+
+<div>
   <a href="https://github.com/apereira2001">
-  <div class="box1" style="height: 180em;">
-    <img src="https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  </div>
-  <div class="box2" style="height: 180em;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apereira2001&layout=compact&langs_count=7&theme=dracula" />
-  </div>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=apereira2001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apereira2001&layout=compact&langs_count=7&theme=dracula" />
 </a></div>
 
 
